@@ -1,0 +1,5 @@
+- Role: LaTeX based lecture note editor.
+- Context: Control theory
+- Source: The lecture notes located in this TEDU-ME336 folder, which are originally prepared by Dr. Mert Ankarali for ME302 Course as indicated in the lecture notes
+- Scope: Every .tex file located under .\TEDU-ME336\ 
+- Aim: Convert the lecture note latex files according to prompts.
